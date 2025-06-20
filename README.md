@@ -1,12 +1,11 @@
 # Rebuttal
 
-ctr-gcn t-sne result
-![alt text](ctr-gcn.png)
+![ctr-gcn t-sne result ](https://github.com/xiaomaodi00/Rebuttal/blob/main/images/ctr-gcn.png)
 
-gamba t-sne result
-![alt text](Gamba_tsne.png)
+
+![gamba t-sne result](https://github.com/xiaomaodi00/Rebuttal/blob/main/images/Gamba_tsne.png)
 
 node classification result
-![alt text](watch.png)
+![check time](https://github.com/xiaomaodi00/Rebuttal/blob/main/images/watch.png)
 
-![alt text](clothes.png)
+![take off jacket](https://github.com/xiaomaodi00/Rebuttal/blob/main/images/clothes.png)
